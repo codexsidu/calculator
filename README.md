@@ -1,3 +1,3 @@
 # calculator
 Creating a Calculator using HTML, CSS and js
-Project 1
+<br>Project 1</br>
